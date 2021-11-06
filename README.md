@@ -1,2 +1,2 @@
 # ArrayToString
-Turn arrays into readable strings
+converts an array to a readable string
